@@ -23,6 +23,15 @@ POSITIVE_WORDS = [
     "chill",
     "relaxed",
     "amazing",
+    # Slang / informal / regional additions (breaker test fix)
+    "fire",
+    "slaps",
+    "bussin",
+    "hyped",
+    "proud",
+    "hopeful",
+    "chuffed",
+    "🔥",
 ]
 
 NEGATIVE_WORDS = [
@@ -36,6 +45,12 @@ NEGATIVE_WORDS = [
     "stressed",
     "hate",
     "boring",
+    # Slang / informal / regional additions (breaker test fix)
+    "mid",
+    "gutted",
+    "exhausted",
+    "shambles",
+    "😭",
 ]
 
 # ---------------------------------------------------------------------
