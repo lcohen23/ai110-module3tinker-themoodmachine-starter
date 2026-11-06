@@ -50,6 +50,16 @@ SAMPLE_POSTS = [
     "This is fine",
     "So excited for the weekend",
     "I am not happy about this",
+    "lowkey proud of myself for finishing that essay 😌",
+    "I absolutely love getting stuck in traffic for an hour 🙃",
+    "got the internship but I have to move across the country lol",
+    "bro I'm so done with this week 💀",
+    "this song has me in my feelings rn 🥲",
+    "can't wait to see my friends this weekend!!",
+    "had a dentist appointment, now heading to work",
+    "not bad for a first try honestly",
+    "happy for her, but kinda wish it was me",
+    "ngl today was mid",
 ]
 
 # Human labels for each post above.
@@ -65,6 +75,16 @@ TRUE_LABELS = [
     "neutral",   # "This is fine"
     "positive",  # "So excited for the weekend"
     "negative",  # "I am not happy about this"
+    "positive",  # "lowkey proud of myself for finishing that essay 😌"
+    "negative",  # "I absolutely love getting stuck in traffic for an hour 🙃" (sarcasm)
+    "mixed",     # "got the internship but I have to move across the country lol"
+    "negative",  # "bro I'm so done with this week 💀"
+    "mixed",     # "this song has me in my feelings rn 🥲"
+    "positive",  # "can't wait to see my friends this weekend!!"
+    "neutral",   # "had a dentist appointment, now heading to work"
+    "positive",  # "not bad for a first try honestly" (negation)
+    "mixed",     # "happy for her, but kinda wish it was me"
+    "negative",  # "ngl today was mid" (debatable: some would say neutral)
 ]
 
 # TODO: Add 5-10 more posts and labels.
