@@ -75,6 +75,11 @@ SAMPLE_POSTS = [
     "not bad for a first try honestly",
     "happy for her, but kinda wish it was me",
     "ngl today was mid",
+    "I am so grateful for my friends",
+    "I am exhausted and nothing went right today",
+    "the new album is fire",
+    "bus was late again, love that for me 🙃",
+    "the meeting got moved to Thursday",
 ]
 
 # Human labels for each post above.
@@ -100,6 +105,11 @@ TRUE_LABELS = [
     "positive",  # "not bad for a first try honestly" (negation)
     "mixed",     # "happy for her, but kinda wish it was me"
     "negative",  # "ngl today was mid" (debatable: some would say neutral)
+    "positive",  # "I am so grateful for my friends"
+    "negative",  # "I am exhausted and nothing went right today"
+    "positive",  # "the new album is fire"
+    "negative",  # "bus was late again, love that for me 🙃" (sarcasm)
+    "neutral",   # "the meeting got moved to Thursday"
 ]
 
 # TODO: Add 5-10 more posts and labels.
